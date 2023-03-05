@@ -18,7 +18,7 @@ const Navbar = ({ logout, user, toggleTheme }) => {
         <nav id="navbar">
             <ul>
                 <li>
-                    <Link to="/">Home</Link>
+                    <Link to="/">Home Pages</Link>
                 </li>
                 <li>
                     <Link to="/login">Login</Link>
